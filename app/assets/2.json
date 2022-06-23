@@ -1,0 +1,19 @@
+{
+  "name": "Number #0003",
+  "symbol": "DL",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8tQYzY6mjSHAqmgUoyTsgceJFdbzJQxYB4YT8iwoDuzY",
+        "share": 100
+      }
+    ]
+  }
+}
